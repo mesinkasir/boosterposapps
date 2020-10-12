@@ -34,6 +34,11 @@ You can install boosterpos apps on offline desktop mode if you needed, just down
 + After insert and register all databased , now you can using point of sale features for create transaction, just click on pos menu and create transaction , click on date , insert customer name, and notes then select product for transaction , support with discount and payment system like cash, credit, card and more. after finish transaction you can click save for save cashier transaction.
 + And now you can click on report menu to view all report income details.
 
+If you need more tutorial installation visit blog or follow procedure video installation
+[blog tutorial installation](https://www.hockeycomputindo.com/2020/10/ini-dia-aplikasi-toko-gratis-untuk.html)
+
+[Video installation](https://youtu.be/8ZRbqK6pAVI)
+
 Hapy codding !!
 
 If you need pos apps and digital art creative website design you can contact we staff on whatsapp : +6285646104747
