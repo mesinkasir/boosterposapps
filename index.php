@@ -93,7 +93,7 @@ if($_POST) {
 						</form>
 					</div>
 				</div>
-		<a class="text-center" href="http://www.mesinkasir.asia" target="blank">www.mesinkasir.asia</a>
+		<a class="text-center" href="http://www.mesinkasirasia.web.app" target="blank">www.mesinkasirasia.web.app</a>
 			</div>
 		</div>
 	</div>
