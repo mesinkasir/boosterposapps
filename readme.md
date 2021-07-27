@@ -1,22 +1,22 @@
 # BOOSTERPOS APPS SOLUTIONS
-![Boosterpos apps aplikasi toko kasir gratis free download source code pos](https://a.fsdn.com/con/app/proj/boosterpos/screenshots/bootserpos%20app%20mobile%20pos.png/max/max/1)
+![Boosterpos apps aplikasi toko kasir gratis free download source code pos](https://1.bp.blogspot.com/-76lk4OREPt8/XzpTSqhsnuI/AAAAAAAALG4/S61TLej2iksgyw27nl7ULO-bBp9H3qJKgCLcBGAsYHQ/s400/aplikasi%2Btoko%2Bonline.png)
 
 The new generation point of sale web apps, blast fast and very simple to support your bussines.
 With features : master based user account login management , product based with branch , categories , include image product. Point of sale cashier transaction , report details.
 
-![Boosterpos apps aplikasi toko kasir gratis free download source code pos](https://a.fsdn.com/con/app/proj/boosterpos/screenshots/mobile%20pos%20app.png/max/max/1)
+![Boosterpos apps aplikasi toko kasir gratis free download source code pos](https://1.bp.blogspot.com/-cjp0InnAzJo/XlxyvYfo0aI/AAAAAAAAJOM/N2aRPDkbAowbxky6ulpr66l_5IAHvjR_gCLcBGAsYHQ/s1600/onlinemesinkasir%2B%25285%2529.jpg)
 
 ### WEB APPS
 You can install boosterpos apps on your clouds hosting , just download this source code and upload on host, install apps and touch with databased , now you can ready to using web apps. with online installation you can using this apps with multi device OS like android smartphone iphone and desktop windows.
 
 Modern UI design including fun icon make this apps very cool for cashier transaction.
 
-![Boosterpos apps aplikasi toko kasir gratis free download source code pos](https://a.fsdn.com/con/app/proj/boosterpos/screenshots/backoffice%20admin%20restaurant%20cafe%20fastfoo%20drink%20shop%20web%20app%20online.png/max/max/1)
+![Boosterpos apps aplikasi toko kasir gratis free download source code pos](https://1.bp.blogspot.com/-I2MSoSfT2lI/Xlxyufd81uI/AAAAAAAAJOI/8JlelbQKCwgn8l6pCczRaLDmudK-bmuEACLcBGAsYHQ/s1600/onlinemesinkasir%2B%25283%2529.jpg)
 
 ### Desktop Mode
 You can install boosterpos apps on offline desktop mode if you needed, just download it and install on your terminal desktop and get started now with boosterpos apps.
 
-![Boosterpos apps aplikasi toko kasir gratis free download source code pos](https://a.fsdn.com/con/app/proj/boosterpos/screenshots/menu%20utama.png/max/max/1)
+![Boosterpos apps aplikasi toko kasir gratis free download source code pos](https://1.bp.blogspot.com/-qntKS7dwnmY/XlxyufB-ZSI/AAAAAAAAJOE/ilTNRZq0AokitcMMdrU8WvvMaUKyVAUHACLcBGAsYHQ/s1600/onlinemesinkasir%2B%25282%2529.jpg)
 
 ### How to install
 + For first you need to download xampp , wampp , lampp. install and run server, and create mysql database on phpmyadmin, name it with boosterpos. 
@@ -39,6 +39,6 @@ More tutorial installation [Video installation](https://youtu.be/8ZRbqK6pAVI) /
 
 Hapy codding !!
 
-If you need pos apps and digital art creative website design you can contact we staff on whatsapp : +6285646104747
+whatsapp : +6285646104747
 
 made with ❤ by [https://mesinkasironline.web.app](https://mesinkasironline.web.app)
